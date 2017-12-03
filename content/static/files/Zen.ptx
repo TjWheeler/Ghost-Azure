@@ -1,0 +1,952 @@
+BaselineInfo:
+  IsLicensed: false
+  WebDBID: -1
+  IsLaptop: false
+  TimeStamp: 20171125122234
+  Description: x299 7820X
+  Notes: "960 Pro 1TB\x0d\x0aGTX970 Direct CU Mini"
+  DX9DevName: NVIDIA GeForce GTX 970
+  DX10DevName: NVIDIA GeForce GTX 970
+  DX11DevName: NVIDIA GeForce GTX 970
+  DX12DevName: NVIDIA GeForce GTX 970
+  AllVideocardsMatch: true
+  gSyncEnabled: true
+  g_DX12RAWFPS: 60.1963081359863
+  g_DX12Width: 2560
+  g_DX12Height: 1440
+Version:
+  Major: 9
+  Minor: 0
+  Build: 1021
+  SpecialBuildName: ""
+  ptArchitecture: 64
+Results:
+  Results Complete: true
+  DriveTestedIndex: 0
+  GPUTestedIndex: 0
+  NumTestProcesses: 16
+  WorstTimingMismatch: 0.996325790882111
+  GPUCMandel: 1111.57141113281
+  GPUCJulia: 599.296081542969
+  GPUCBittonic: 119299256
+  GPUCOpenCL: 928.645629882813
+  CPU_INTEGER_MATH: 37641.3359375
+  CPU_FLOATINGPOINT_MATH: 14703.375
+  CPU_PRIME: 59.1390800476074
+  CPU_MATRIX_MULT_SSE: 1041.13330078125
+  CPU_COMPRESSION: 30325.42578125
+  CPU_ENCRYPTION: 5154.61474609375
+  CPU_PHYSICS: 1098.75451660156
+  CPU_SORTING: 18363.265625
+  CPU_SINGLETHREAD: 2388.34375
+  G2D_SIMPLE: 27.0983810424805
+  G2D_COMPLEX: 151.470352172852
+  G2D_FONT: 285.297302246094
+  G2D_GUI: 132.681015014648
+  G2D_ROTATION: 1073.42224121094
+  G2D_REPLICATION: 1250.83190917969
+  G2D_DIRECT2D: 71.7593307495117
+  G3D_COMPLEX: 205.999328613281
+  G3D_D3D10: 145.166397094727
+  G3D_D3D11: 189.455993652344
+  G3D_D3D12: 32.1046981811523
+  G3D_DIRECTCOMPUTE: 4377.966796875
+  ME_ALLOC_S: 99.7326049804688
+  ME_READ_S: 29080.130859375
+  ME_READ_L: 11816.68359375
+  ME_WRITE: 12445.6162109375
+  ME_LARGE: 27493.666015625
+  ME_LATENCY: 32.175910949707
+  ME_THREADED: 61532.9375
+  DI_READ: 2262.47509765625
+  DI_WRITE: 1761.37817382813
+  DI_RANDOM: 1110.91333007813
+  CD_READ: 0
+  SUMM_CPU: 18691.03515625
+  SUMM_G2D: 961.518859863281
+  SUMM_ME: 2818.05249023438
+  SUMM_DI: 18569.90625
+  SUMM_G3D: 9231.1962890625
+  PASSMARK_RATING: 6763.77880859375
+SystemInformation:
+  ComputerName: CHI
+  OSName: Windows 10 Professional Edition build 16299 (64-bit)
+  CPUInfo:
+    number: 1
+    speed1: 3600.80200195313
+    speed2: 0
+    Family: 6
+    Model: 85
+    MMX: 8388608
+    SIMD: 1
+    features: 3219913727
+    CPUIDSupport: 1
+    manufacture: GenuineIntel
+    typestring: Intel(R) Core(TM) i7-7820X CPU @ 3.60GHz
+    speedstring1: 3600.8 MHz
+    speedstring2: ""
+    cacheinfo_num: 7
+    L2_cache_size: 1024
+    Brand: 0
+    SerialAvail: 0
+    SerialNum1: 0
+    SerialNum2: 0
+    SerialNum3: 0
+    SMID_SSE2: 1
+    iLogicalsPerCore: 2
+    iHyperThreadStatus: 1
+    L3_cache_size: 11264
+    SMID_SSE3: 1
+    iCoresPerPackage: 8
+    MaxBasicInputValue: 22
+    PAE: 64
+    DEP: 1
+    SMID_SSE4_1: 1
+    SMID_SSE4_2: 1
+    EMT64: 1
+    L1_instruction_cache_size: 32
+    Trace_cache_size: -1
+    L1_data_cache_size: 32
+    Prefetching: 64
+    L1_data_caches_per_package: 4
+    L1_instruction_caches_per_package: 4
+    L2_caches_per_package: 4
+    L3_caches_per_package: 0
+    MSRInfo:
+      - ullMSR0x17: 0
+        ullMSR0x1B: 0
+        ullMSR0xE7: 0
+        ullMSR0xE8: 0
+        ullMSR0x19C: 0
+        ullMSR0x1A0: 0
+        ullMSR0x2A: 0
+        ullMSR0x2C: 0
+        ullMSR0xCD: 0
+        ullMSR0xCE: 0
+        ullMSR0x1AD: 0
+        ullMSR0x1A2: 0
+        ullMSR0x1AC: 0
+        iNonIntegerBusRatio: 0
+        flBusFrequencyRatio: 36
+        raw_freq_cpu: 3600.80200195313
+        flScalableBusSpeed: 0
+        flFSB: 0
+        flExternalClock: 100.022277832031
+        flHTFreq: 0
+        iMinimumRatio: 12
+        iMaximumRatio: 36
+        iMaxTurbo1Core: 45
+        iMaxTurbo2Core: 41
+        iMaxTurbo3Core: 40
+        iMaxTurbo4Core: 40
+        iTDPLimit: 0
+        iTDCLimit: 0
+        iTemperatureTarget: 105
+        flCPUSpeedTurbo: 4400.98046875
+        flCPUMultTurbo: 44
+        flCPUExternalClockTurbo: 100.022277832031
+        flCPUSpeedStock: 0
+        flCPUMultStock: 0
+        flCPUExternalClockStock: 100
+        flCPUTSC: 3600.80200195313
+        flScalableBusSpeedStock: 0
+        flFSBStock: 0
+        OCLKBaseClock: 2
+        OCLKMultiplier: 3
+        OCLKFreq: 0
+        flCPUExternalClockBoosted: 0
+        flMinMult: 0
+        flMaxMult: 0
+        flBoostedMult: 0
+        iMaxTurbo5Core: 40
+        iMaxTurbo6Core: 40
+        iMaxTurbo7Core: 40
+        iMaxTurbo8Core: 40
+    SMID_SSSE3: 1
+    SMID_SSE4a: 0
+    VMX: 1
+    SMX: 0
+    ACPI: 1
+    szEMT: "Intel64 "
+    iManufacture: 1
+    HTT: 1
+    CPU_SPECIFICATION:
+      CPU: ""
+      iType: 0
+      iFamily: 0
+      iModel: 0
+      iStepping: 0
+      wCPUCodeName: 0
+      wStepping: 0
+      bySocket: 0
+      byFabrication: 0
+      iTJunction: 0
+      CPUCodeName: ""
+      Stepping: ""
+      Socket: ""
+      Fabrication: ""
+    CPU_SPECIFICATION_STEPPING:
+      - iStepping: 4
+        Stepping: ""
+        CPUID: Family 6, Model 55, Stepping 4
+    bDTS: true
+    bIntelTurboBoost: true
+    iMaxTurbo1Core: 0
+    iMaxTurbo2Core: 0
+    iMaxTurbo3Core: 0
+    iMaxTurbo4Core: 0
+    flCPUSpeedTurbo: 4400.98046875
+    AES: 1
+    OCLKBaseClock: 0
+    OCLKMultiplier: 0
+    OCLKFreq: 0
+    bAMDTurboCore: false
+    HyperThreadStatus: Enabled
+    CPUSummary: 1 x Intel(R) Core(TM) i7-7820X CPU @ 3.60GHz,
+    CPUGroupsInfo:
+      MaximumProcessorGroupCount: 1
+      ActiveProcessorGroupCount: 1
+      CPUGroupInfo:
+        - MaximumProcessorCount: 16
+          ActiveProcessorCount: 16
+          ActiveProcessorMask: 65535
+    AVX: 1
+  MemInfoEx:
+    dwLength: 0
+    dwMemoryLoad: 15
+    ullTotalPhys: 34046500864
+    ullAvailPhys: 28829028352
+    ullTotalPageFile: 39415209984
+    ullAvailPageFile: 34115399680
+    ullTotalVirtual: 140737488224256
+    ullAvailVirtual: 140736720642048
+    ullAvailExtendedVirtual: 0
+  MemModuleInfo:
+    iNumMemSticks: 0
+    memSPDInfo:
+      []
+  GraphicsSummary: "NVIDIA GeForce GTX 970, "
+  MM:
+    iNumberMonitorsInit: 2
+    iNumberMonitors: 2
+    szMonitorSequencing: D9FBCDB0D7FE0C
+    mi:
+      - rcMonitor:
+          left: 0
+          top: 0
+          right: 2560
+          bottom: 1440
+        rcWork:
+          left: 0
+          top: 0
+          right: 2560
+          bottom: 1400
+        dwFlags: 1
+        szDevice: \\.\DISPLAY1
+      - rcMonitor:
+          left: -1920
+          top: 363
+          right: 0
+          bottom: 1443
+        rcWork:
+          left: -1920
+          top: 363
+          right: 0
+          bottom: 1403
+        dwFlags: 0
+        szDevice: \\.\DISPLAY2
+    ma:
+      - iBPP: 32
+        iX: 2560
+        iY: 1440
+        flRefreshRate: 59
+        szMonitorNumber: "Monitor 1:"
+        szDisplay: "2560x1440x32 59Hz (Primary monitor) "
+      - iBPP: 32
+        iX: 1920
+        iY: 1080
+        flRefreshRate: 60
+        szMonitorNumber: "Monitor 2:"
+        szDisplay: "1920x1080x32 60Hz "
+  DD:
+    - bDisplay: true
+      szDisplayDevice: \\.\DISPLAY1
+      szDeviceDescription: NVIDIA GeForce GTX 970
+      szDeviceID: PCI\VEN_10DE&DEV_13C2&SUBSYS_850E1043&REV_A1
+      szDeviceKey: \Registry\Machine\System\CurrentControlSet\Control\Video\{0F7173E3-D1D9-11E7-A344-7085C25E03E4}\0000
+      bDriverInstalled: true
+      szDeviceDescription2: NVIDIA GeForce GTX 970
+      szChipType: GeForce GTX 970
+      szDACType: Integrated RAMDAC
+      szBIOSString: Version84.4.1f.0.a9
+      szInstalledDisplayDrivers: ""
+      dwMemorySize: 4294639616
+      szDriverProviderName: NVIDIA
+      szDriverVersion: 23.21.13.8831
+      szDriverDate: 11-14-2017
+      szPNPID: PCI\VEN_10DE&DEV_13C2&SUBSYS_850E1043&REV_A1\4&6adc9b9&0&0000
+      SLIEnabled: false
+      iComputeUnits: 0
+      iMonitorIndex: [0, 1]
+    - bDisplay: false
+      szDisplayDevice: \\.\DISPLAY2
+      szDeviceDescription: NVIDIA GeForce GTX 970
+      szDeviceID: PCI\VEN_10DE&DEV_13C2&SUBSYS_850E1043&REV_A1
+      szDeviceKey: \Registry\Machine\System\CurrentControlSet\Control\Video\{0F7173E3-D1D9-11E7-A344-7085C25E03E4}\0001
+      bDriverInstalled: true
+      szDeviceDescription2: NVIDIA GeForce GTX 970
+      szChipType: GeForce GTX 970
+      szDACType: Integrated RAMDAC
+      szBIOSString: Version84.4.1f.0.a9
+      szInstalledDisplayDrivers: ""
+      dwMemorySize: 4294967296
+      szDriverProviderName: NVIDIA
+      szDriverVersion: 23.21.13.8831
+      szDriverDate: 11-14-2017
+      szPNPID: ""
+      SLIEnabled: false
+      iComputeUnits: 0
+      iMonitorIndex: []
+    - bDisplay: false
+      szDisplayDevice: \\.\DISPLAY3
+      szDeviceDescription: NVIDIA GeForce GTX 970
+      szDeviceID: PCI\VEN_10DE&DEV_13C2&SUBSYS_850E1043&REV_A1
+      szDeviceKey: \Registry\Machine\System\CurrentControlSet\Control\Video\{0F7173E3-D1D9-11E7-A344-7085C25E03E4}\0002
+      bDriverInstalled: true
+      szDeviceDescription2: NVIDIA GeForce GTX 970
+      szChipType: GeForce GTX 970
+      szDACType: Integrated RAMDAC
+      szBIOSString: Version84.4.1f.0.a9
+      szInstalledDisplayDrivers: ""
+      dwMemorySize: 4294967296
+      szDriverProviderName: NVIDIA
+      szDriverVersion: 23.21.13.8831
+      szDriverDate: 11-14-2017
+      szPNPID: ""
+      SLIEnabled: false
+      iComputeUnits: 0
+      iMonitorIndex: []
+    - bDisplay: false
+      szDisplayDevice: \\.\DISPLAY4
+      szDeviceDescription: NVIDIA GeForce GTX 970
+      szDeviceID: PCI\VEN_10DE&DEV_13C2&SUBSYS_850E1043&REV_A1
+      szDeviceKey: \Registry\Machine\System\CurrentControlSet\Control\Video\{0F7173E3-D1D9-11E7-A344-7085C25E03E4}\0003
+      bDriverInstalled: true
+      szDeviceDescription2: NVIDIA GeForce GTX 970
+      szChipType: GeForce GTX 970
+      szDACType: Integrated RAMDAC
+      szBIOSString: Version84.4.1f.0.a9
+      szInstalledDisplayDrivers: ""
+      dwMemorySize: 4294967296
+      szDriverProviderName: NVIDIA
+      szDriverVersion: 23.21.13.8831
+      szDriverDate: 11-14-2017
+      szPNPID: ""
+      SLIEnabled: false
+      iComputeUnits: 0
+      iMonitorIndex: []
+  SysInfo_WMI:
+    BIOSInfo:
+      - szBIOS_Manufacturer: American Megatrends Inc.
+        szBIOS_ReleaseDate: 2017/09/04
+        szBIOS_BIOSVersion: P1.00
+    VirtualMemoryInfo:
+      - PageFileName: C:\pagefile.sys
+        dwPageFileAllocatedBaseSize: 5120
+    OpticalDriveInfo:
+      OpticalDriveSummary: ""
+      OpticalDriveModel:
+        []
+    PhyscialDriveInfo:
+      tszHDDSummary: "954GB SSD, "
+      PhysDisk:
+        - dwDisk_Index: 0
+          Size: 1024203640320
+          bSSD: true
+          Name: NVMe Samsung SSD 960
+          szDisk_Description: Disk drive
+          szSummary: "Disk drive: Model: NVMe Samsung SSD 960 Serial: S3EVNX0J411462J (Disk: 0, Size: 953.86GB, Volumes: C)"
+    DiskVolumeInfo:
+      - szLogicalDisk_VolumeName: ""
+        szLogicalDisk_Name: "C: "
+        szLogicalDisk_Description: Local Drive
+        szLogicalDisk_FileSystem: NTFS
+        szLogicalDisk_ProductName: ""
+        szLogicalDisk_VolumeSummary: "C:  Local Drive, \\\\?\\Volume{ff620c10-3ee6-4443-bbb2-30be2f3cadd4}\\, NTFS, (953.32GB total, 881.10GB free)"
+        iLogicalDisk_DriveType: 3
+        ullLogicalDisk_Totalbytes: 1023615692800
+        ullLogicalDisk_Freebytes: 946070200320
+    RAMInfo:
+      []
+    ComputerModelInfo:
+      - To Be Filled By O.E.M.
+    BaseBoardInfo:
+      - szBaseBoard_Manufacturer: ASRock
+        szBaseBoard_Product: X299E-ITX/ac
+        szBaseBoard_SerialNumber: M80-A9023401207
+        szBaseBoard_Version: ""
+    SerialPortInfo:
+      []
+    ParallelPortInfo:
+      []
+    NetworkAdapterInfo:
+      - szNetworkAdapter_PNPDeviceID: PCI\VEN_8086&DEV_15B8&SUBSYS_15B81849&REV_00\3&11583659&0&FE
+        szNetworkAdapter_Description: Intel(R) Ethernet Connection (2) I219-V
+        szNetworkAdapter_Summary: "Intel(R) Ethernet Connection (2) I219-V (MAC: 70:85:C2:5E:03:E6)"
+        ui64Speed: 0
+      - szNetworkAdapter_PNPDeviceID: PCI\VEN_8086&DEV_1539&SUBSYS_15391849&REV_03\7085C2FFFF5E03E400
+        szNetworkAdapter_Description: Intel(R) I211 Gigabit Network Connection
+        szNetworkAdapter_Summary: "Intel(R) I211 Gigabit Network Connection (Speed: 1Gb/s) (MAC: 70:85:C2:5E:03:E4) (IPv4: 192.168.1.10) (IPv6: fdf4:cb52:895b:b600:ac5f:df11:fac7:5d1)"
+        ui64Speed: 1000000000
+      - szNetworkAdapter_PNPDeviceID: PCI\VEN_8086&DEV_24FD&SUBSYS_10108086&REV_78\BCA8A6FFFFBAE57D00
+        szNetworkAdapter_Description: Intel(R) Dual Band Wireless-AC 8265
+        szNetworkAdapter_Summary: "Intel(R) Dual Band Wireless-AC 8265 (MAC: BC:A8:A6:BA:E5:7D)"
+        ui64Speed: 0
+      - szNetworkAdapter_PNPDeviceID: SWD\MSRRAS\MS_NDISWANBH
+        szNetworkAdapter_Description: ""
+        szNetworkAdapter_Summary: ""
+        ui64Speed: 0
+    PortConnectorInfo:
+      Ports:
+        []
+      dwPortConnector_NumUSBPorts: 0
+      dwPortConnector_NumFirewirePorts: 0
+    DiskPartitionInfo: [3]
+  SysInfo_SMBIOS:
+    BIOSInfo:
+      - szBIOS_Manufacturer: American Megatrends Inc.
+        szBIOS_ReleaseDate: 09/04/2017
+        szBIOS_BIOSVersion: P1.00
+    RAMInfo:
+      - ullRAM_Capacity: 8589934592
+        dwRAM_MemoryType: 26
+        dwRAM_PositionInRow: 0
+        szRAM_MemoryLocation: "`\x09\x03\x04\x05\x06\x01"
+        dwRAM_Speed: 0
+        szRAM_Manufacturer: ""
+        szRAM_szSerialNumber: ""
+        szRAM_RAMModuleHeading: "`\x09\x03\x04\x05\x06\x01: "
+        szRAM_RAMModuleLine1: "8192MB, "
+        szRAM_RAMModuleLine2: ""
+      - ullRAM_Capacity: 0
+        dwRAM_MemoryType: 2
+        dwRAM_PositionInRow: 0
+        szRAM_MemoryLocation: ""
+        dwRAM_Speed: 0
+        szRAM_Manufacturer: ""
+        szRAM_szSerialNumber: ""
+        szRAM_RAMModuleHeading: "1: "
+        szRAM_RAMModuleLine1: "Not populated "
+        szRAM_RAMModuleLine2: ""
+      - ullRAM_Capacity: 8589934592
+        dwRAM_MemoryType: 26
+        dwRAM_PositionInRow: 0
+        szRAM_MemoryLocation: "`\x09\x03\x04\x05\x06\x01"
+        dwRAM_Speed: 0
+        szRAM_Manufacturer: ""
+        szRAM_szSerialNumber: ""
+        szRAM_RAMModuleHeading: "`\x09\x03\x04\x05\x06\x01: "
+        szRAM_RAMModuleLine1: "8192MB, "
+        szRAM_RAMModuleLine2: ""
+      - ullRAM_Capacity: 0
+        dwRAM_MemoryType: 2
+        dwRAM_PositionInRow: 0
+        szRAM_MemoryLocation: ""
+        dwRAM_Speed: 0
+        szRAM_Manufacturer: ""
+        szRAM_szSerialNumber: ""
+        szRAM_RAMModuleHeading: "3: "
+        szRAM_RAMModuleLine1: "Not populated "
+        szRAM_RAMModuleLine2: ""
+      - ullRAM_Capacity: 8589934592
+        dwRAM_MemoryType: 26
+        dwRAM_PositionInRow: 0
+        szRAM_MemoryLocation: "`\x09\x03\x04\x05\x06\x01"
+        dwRAM_Speed: 0
+        szRAM_Manufacturer: ""
+        szRAM_szSerialNumber: ""
+        szRAM_RAMModuleHeading: "`\x09\x03\x04\x05\x06\x01: "
+        szRAM_RAMModuleLine1: "8192MB, "
+        szRAM_RAMModuleLine2: ""
+      - ullRAM_Capacity: 0
+        dwRAM_MemoryType: 2
+        dwRAM_PositionInRow: 0
+        szRAM_MemoryLocation: ""
+        dwRAM_Speed: 0
+        szRAM_Manufacturer: ""
+        szRAM_szSerialNumber: ""
+        szRAM_RAMModuleHeading: "5: "
+        szRAM_RAMModuleLine1: "Not populated "
+        szRAM_RAMModuleLine2: ""
+      - ullRAM_Capacity: 8589934592
+        dwRAM_MemoryType: 26
+        dwRAM_PositionInRow: 0
+        szRAM_MemoryLocation: "`\x09\x03\x04\x05\x06\x01"
+        dwRAM_Speed: 0
+        szRAM_Manufacturer: ""
+        szRAM_szSerialNumber: ""
+        szRAM_RAMModuleHeading: "`\x09\x03\x04\x05\x06\x01: "
+        szRAM_RAMModuleLine1: "8192MB, "
+        szRAM_RAMModuleLine2: ""
+      - ullRAM_Capacity: 0
+        dwRAM_MemoryType: 2
+        dwRAM_PositionInRow: 0
+        szRAM_MemoryLocation: ""
+        dwRAM_Speed: 0
+        szRAM_Manufacturer: ""
+        szRAM_szSerialNumber: ""
+        szRAM_RAMModuleHeading: "7: "
+        szRAM_RAMModuleLine1: "Not populated "
+        szRAM_RAMModuleLine2: ""
+  USBHostControllers:
+    - szHostController: USB xHCI Compliant Host Controller
+      szDriverKeyName: "{36fc9e60-c465-11cf-8056-444553540000}\\0000"
+      szDevice:
+        - USB20 Camera
+        - Microsoft Natural Ergonomic Keyboard 4000
+        - Logitech USB Gaming Mouse
+    - szHostController: USB xHCI Compliant Host Controller
+      szDriverKeyName: "{36fc9e60-c465-11cf-8056-444553540000}\\0001"
+      szDevice:
+        []
+  PhysDisks:
+    - nDiskType: 1
+      nPartitionTableType: 2
+      bNFTSImage: false
+      bVolumeImage: false
+      bDDImage: false
+      PartitionInfo:
+        - wPhyDisk: 0
+          wCylinder: 0
+          wHead: 0
+          wSector: 0
+          ullNumSectors: 921600
+          wType: 1
+          ullRelativeSector: 0
+          ullNTRelativeSector: 2048
+          dwBytesPerSector: 512
+          dwBytesPerCluster: 4096
+          wMFTRecordSz: 1024
+          szDrive: ""
+          chType: 7
+        - wPhyDisk: 0
+          wCylinder: 0
+          wHead: 0
+          wSector: 0
+          ullNumSectors: 202752
+          wType: 1
+          ullRelativeSector: 0
+          ullNTRelativeSector: 923648
+          dwBytesPerSector: 512
+          dwBytesPerCluster: 1024
+          wMFTRecordSz: 0
+          szDrive: ""
+          chType: 11
+        - wPhyDisk: 0
+          wCylinder: 0
+          wHead: 0
+          wSector: 0
+          ullNumSectors: 0
+          wType: 0
+          ullRelativeSector: 0
+          ullNTRelativeSector: 0
+          dwBytesPerSector: 0
+          dwBytesPerCluster: 0
+          wMFTRecordSz: 0
+          szDrive: ""
+          chType: 0
+        - wPhyDisk: 0
+          wCylinder: 0
+          wHead: 0
+          wSector: 0
+          ullNumSectors: 1999249408
+          wType: 1
+          ullRelativeSector: 0
+          ullNTRelativeSector: 1159168
+          dwBytesPerSector: 512
+          dwBytesPerCluster: 4096
+          wMFTRecordSz: 1024
+          szDrive: "C:"
+          chType: 7
+  SMARTDeviceInfo:
+    0:
+      b48BitAddressSupported: 0
+      bAutoAcousticEnabled: 0
+      bChannelId: 0
+      bTargetId: 0
+      bLun: 0
+      bInterfaceType: 17
+      qwNumCylinders: 124519
+      wBytesPerSector: 512
+      wSectorsPerTrack: 63
+      wTracksPerCylinder: 255
+      wLogicalSectorSize: 512
+      wPhysicalSectorSize: 512
+      dwBufferSize: 0
+      wECCSize: 0
+      wMediaRotationRate: 1
+      wATAVersionSupported: 0
+      wTransportTypeSupported: 0
+      qwTotalAddressableSectors: 0
+      bSerialNumber: S3EVNX0J411462J
+      bFirmwareRev: 2B6QCXP7
+      bModelNumber: Samsung SSD 960 PRO 1TB
+      bWorldWideID: 0000000000000000
+      bSMARTSupported: 0
+      bSMARTEnabled: 0
+      bSMARTSelfTestSupported: 0
+      bSMARTErrorLoggingSupported: 0
+      bLBASupported: 0
+      bIORDYSupported: 0
+      bCFastSupported: 0
+      bDMASupported: 0
+      bMultiwordDMASupported: 0
+      bMultiwordDMASelected: 0
+      bUltraDMASupported: 0
+      bUltraDMASelected: 0
+      bPIOSupported: 0
+      bSATACompliance: 0
+      wSATACapabilities: 0
+      wSATAFeaturesSupported: 0
+      wSATAFeaturesEnabled: 0
+      bTrustedComputingSupported: 0
+      bHPASupported: 0
+      bReadLookAheadSupported: 0
+      bReadLookAheadEnabled: 0
+      bWriteCacheSupported: 0
+      bWriteCacheEnabled: 0
+      bPowerManagementSupported: 0
+      bSecurityModeSupported: 0
+      bSecurityModeEnabled: 0
+      bDeviceConfigOverlaySupported: 0
+      b48BitAddressSupported: 0
+      bAutoAcousticSupported: 0
+      bAutoAcousticEnabled: 0
+      bRecommendedAAMLevel: 0
+      bCurrentAAMLevel: 0
+      bPowerUpStandbySupported: 0
+      bPowerUpStandbyEnabled: 0
+      bAutoPowerManagementSupported: 0
+      bAutoPowerManagementEnabled: 0
+      bCurrentAPMLevel: 0
+      bCFASupported: 0
+      bGPLoggingSupported: 0
+      bStreamingSupported: 0
+      bMediaCardPassthroughSupported: 0
+      bMediaCardPassthroughEnabled: 0
+      bExtPowerConditionsSupported: 0
+      bExtPowerConditionsEnabled: 0
+      bExtStatusReportingSupported: 0
+      bExtStatusReportingEnabled: 0
+      bFreefallControlSupported: 0
+      bFreefallControlEnabled: 0
+      bWriteReadVerifySupported: 0
+      bWriteReadVerifyEnabled: 0
+      bTrimSupported: 0
+      wSCTCommandTransportSupported: 0
+      bNVCacheEnabled: 0
+      bNVCachePMSupported: 0
+      bNVCachePMEnabled: 0
+  TSensorData:
+    TemperatureInfo:
+      - iKey:
+          iType: 1
+          iID: 0
+          iIDSubvalue: -1
+          iCPUMask: 0
+        iPMKeySelected: 0
+        szTempCaption: CPU 0 average
+        Temp: 30.5
+      - iKey:
+          iType: 4
+          iID: 0
+          iIDSubvalue: 0
+          iCPUMask: 1
+        iPMKeySelected: 0
+        szTempCaption: CPU 0 core 0
+        Temp: 31
+      - iKey:
+          iType: 4
+          iID: 0
+          iIDSubvalue: 1
+          iCPUMask: 4
+        iPMKeySelected: 0
+        szTempCaption: CPU 0 core 1
+        Temp: 31
+        CPUMSRTemp:
+          pdwCPUAffinityMask: 0
+          ullMSR0x19C: 2286551040
+          iPROCHOT1: 0
+          iPROCHOT2: 0
+          iResolutionInDegreesCelcius: 1
+          iReadingValid: 1
+          iDigitalReadout: 74
+          iTemperature: 31
+      - iKey:
+          iType: 4
+          iID: 0
+          iIDSubvalue: 2
+          iCPUMask: 16
+        iPMKeySelected: 0
+        szTempCaption: CPU 0 core 2
+        Temp: 29
+        CPUMSRTemp:
+          pdwCPUAffinityMask: 0
+          ullMSR0x19C: 2286682112
+          iPROCHOT1: 0
+          iPROCHOT2: 0
+          iResolutionInDegreesCelcius: 1
+          iReadingValid: 1
+          iDigitalReadout: 76
+          iTemperature: 29
+      - iKey:
+          iType: 4
+          iID: 0
+          iIDSubvalue: 3
+          iCPUMask: 64
+        iPMKeySelected: 0
+        szTempCaption: CPU 0 core 3
+        Temp: 30
+        CPUMSRTemp:
+          pdwCPUAffinityMask: 0
+          ullMSR0x19C: 2286616576
+          iPROCHOT1: 0
+          iPROCHOT2: 0
+          iResolutionInDegreesCelcius: 1
+          iReadingValid: 1
+          iDigitalReadout: 75
+          iTemperature: 30
+      - iKey:
+          iType: 4
+          iID: 0
+          iIDSubvalue: 4
+          iCPUMask: 256
+        iPMKeySelected: 0
+        szTempCaption: CPU 0 core 4
+        Temp: 30
+        CPUMSRTemp:
+          pdwCPUAffinityMask: 0
+          ullMSR0x19C: 2286616576
+          iPROCHOT1: 0
+          iPROCHOT2: 0
+          iResolutionInDegreesCelcius: 1
+          iReadingValid: 1
+          iDigitalReadout: 75
+          iTemperature: 30
+      - iKey:
+          iType: 4
+          iID: 0
+          iIDSubvalue: 5
+          iCPUMask: 1024
+        iPMKeySelected: 0
+        szTempCaption: CPU 0 core 5
+        Temp: 30
+        CPUMSRTemp:
+          pdwCPUAffinityMask: 0
+          ullMSR0x19C: 2286616576
+          iPROCHOT1: 0
+          iPROCHOT2: 0
+          iResolutionInDegreesCelcius: 1
+          iReadingValid: 1
+          iDigitalReadout: 75
+          iTemperature: 30
+      - iKey:
+          iType: 4
+          iID: 0
+          iIDSubvalue: 6
+          iCPUMask: 4096
+        iPMKeySelected: 0
+        szTempCaption: CPU 0 core 6
+        Temp: 31
+        CPUMSRTemp:
+          pdwCPUAffinityMask: 0
+          ullMSR0x19C: 2286551040
+          iPROCHOT1: 0
+          iPROCHOT2: 0
+          iResolutionInDegreesCelcius: 1
+          iReadingValid: 1
+          iDigitalReadout: 74
+          iTemperature: 31
+      - iKey:
+          iType: 4
+          iID: 0
+          iIDSubvalue: 7
+          iCPUMask: 16384
+        iPMKeySelected: 0
+        szTempCaption: CPU 0 core 7
+        Temp: 32
+        CPUMSRTemp:
+          pdwCPUAffinityMask: 0
+          ullMSR0x19C: 2286485504
+          iPROCHOT1: 0
+          iPROCHOT2: 0
+          iResolutionInDegreesCelcius: 1
+          iReadingValid: 1
+          iDigitalReadout: 73
+          iTemperature: 32
+      - iKey:
+          iType: 8
+          iID: 0
+          iIDSubvalue: 3
+          iCPUMask: 0
+        iPMKeySelected: 0
+        szTempCaption: HDD 0 (NVMe Samsung SSD 960)
+        Temp: -1001
+      - iKey:
+          iType: 16
+          iID: 0
+          iIDSubvalue: -1
+          iCPUMask: 0
+        iPMKeySelected: 0
+        szTempCaption: GPU 0 GeForce GTX 970
+        Temp: 52
+  ProcessList:
+    - smss.exe
+    - csrss.exe
+    - wininit.exe
+    - csrss.exe
+    - services.exe
+    - lsass.exe
+    - svchost.exe
+    - fontdrvhost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - winlogon.exe
+    - fontdrvhost.exe
+    - dwm.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - NVDisplay.Container.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - Memory Compression
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - WUDFHost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - dasHost.exe
+    - spoolsv.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - nvcontainer.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - IPROSetMonitor.exe
+    - SecurityHealthService.exe
+    - OfficeClickToRun.exe
+    - NvTelemetryContainer.exe
+    - svchost.exe
+    - svchost.exe
+    - msdtc.exe
+    - dllhost.exe
+    - svchost.exe
+    - svchost.exe
+    - MsMpEng.exe
+    - NisSrv.exe
+    - SearchIndexer.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - NVDisplay.Container.exe
+    - sihost.exe
+    - nvcontainer.exe
+    - svchost.exe
+    - svchost.exe
+    - taskhostw.exe
+    - svchost.exe
+    - svchost.exe
+    - ctfmon.exe
+    - explorer.exe
+    - svchost.exe
+    - svchost.exe
+    - dllhost.exe
+    - SettingSyncHost.exe
+    - svchost.exe
+    - svchost.exe
+    - NVIDIA Web Helper.exe
+    - conhost.exe
+    - ShellExperienceHost.exe
+    - RuntimeBroker.exe
+    - RuntimeBroker.exe
+    - SearchUI.exe
+    - RuntimeBroker.exe
+    - svchost.exe
+    - ApplicationFrameHost.exe
+    - svchost.exe
+    - MSASCuiL.exe
+    - SetPoint.exe
+    - KHALMNPR.exe
+    - OneDrive.exe
+    - svchost.exe
+    - sqlwriter.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - svchost.exe
+    - SearchProtocolHost.exe
+    - MSBuild.exe
+    - MSBuild.exe
+    - MSBuild.exe
+    - MSBuild.exe
+    - MSBuild.exe
+    - MSBuild.exe
+    - MSBuild.exe
+    - MSBuild.exe
+    - conhost.exe
+    - conhost.exe
+    - conhost.exe
+    - conhost.exe
+    - conhost.exe
+    - conhost.exe
+    - conhost.exe
+    - conhost.exe
+    - audiodg.exe
+    - svchost.exe
+    - msiexec.exe
+    - svchost.exe
+    - svchost.exe
+    - backgroundTaskHost.exe
+    - svchost.exe
+    - SearchFilterHost.exe
+    - dllhost.exe
+    - backgroundTaskHost.exe
+    - RuntimeBroker.exe
+    - svchost.exe
+    - svchost.exe
+    - WmiPrvSE.exe
+    - svchost.exe
+    - svchost.exe
+    - dllhost.exe
+    - dllhost.exe
+    - PerformanceTest64.exe
+Checksum: 258F15CB6221474796BC1DB40831A460EBDAE5F1
